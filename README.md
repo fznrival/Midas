@@ -1,7 +1,7 @@
 # Midas-yielder
 
 Midas Yielder Bot 
-Register : [Midas]([t.me/](https://t.me/MidasRWA_bot/app?startapp=ref_cd59862a-e597-46a7-b2ee-8c2d17578270)
+Register : [Midas](https://t.me/MidasRWA_bot/app?startapp=ref_cd59862a-e597-46a7-b2ee-8c2d17578270)
 
 # Features
 - Auto Check-In Streak

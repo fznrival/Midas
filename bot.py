@@ -353,7 +353,7 @@ def main():
     # Watermark print di awal
     watermark = f"""
     {CYAN}========================================{RESET}
-    {GREEN}       Midas Bot - Daily Reset Script   {RESET}
+    {GREEN}       Midas Bot - Daily Script   {RESET}
     {CYAN}========================================{RESET}
     {YELLOW}Developed by: Rivalz{RESET}
     {YELLOW}Version: 1.0 | Date: 2025-02-27{RESET}

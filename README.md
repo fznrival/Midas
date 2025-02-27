@@ -10,7 +10,7 @@ Register : [Midas](https://t.me/MidasRWA_bot/app?startapp=ref_cd59862a-e597-46a7
 - Multi Account
 - Accumulate All User Points
 - Support Proxies
-- 
+
 # How to use
 - copy and paste query_id in query.txt
 

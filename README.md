@@ -1,14 +1,27 @@
 # Midas-yielder
 
 Midas Yielder Bot 
+Register : [Midas]([t.me/](https://t.me/MidasRWA_bot/app?startapp=ref_cd59862a-e597-46a7-b2ee-8c2d17578270)
+
 # Features
 - Auto Check-In Streak
 - Auto Claim Reff
 - Auto Play Games
 - Multi Account
 - Accumulate All User Points
-# How to
-- copy paste query_id in query.txt
-- cd midas
-- pip install -r requirements.txt
-- python midas.py
+- Support Proxies
+- 
+# How to use
+- copy and paste query_id in query.txt
+
+```bash
+cd Midas
+```
+
+```bash
+pip install -r requirements.txt
+```
+
+```bash
+python bot.py
+```
